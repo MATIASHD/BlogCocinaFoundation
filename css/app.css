@@ -1,3 +1,11 @@
 body{
     background-image: url(/multimedia/cocina.jpg);
 }
+
+.color-de-fondo{
+    background-color: rgba(58, 219, 118, 0.5);
+}
+
+.color-blanco{
+    color: #ffffff;
+}
